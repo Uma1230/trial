@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-p#x!kprfe-q$&il!3exvc)u6kxlt+llt$2a_ng66y^4sne8x%w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://agile-temple-57264.herokuapp.com/ | https://git.heroku.com/agile-temple-57264.git | https://umasblog.herokuapp.com/]
 
 
 # Application definition
